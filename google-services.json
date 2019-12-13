@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987693385328",
+    "firebase_url": "https://qrcode-app-cf0f9.firebaseio.com",
+    "project_id": "qrcode-app-cf0f9",
+    "storage_bucket": "qrcode-app-cf0f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987693385328:android:adac979322c0c39b2616b5",
+        "android_client_info": {
+          "package_name": "com.areebvohra.qrcodeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987693385328-ss6c9pmto51585dq8s77siltrm57oomq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80CH9pHJkr_HsmVOcDeeGnkfkL9mDYi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987693385328-ss6c9pmto51585dq8s77siltrm57oomq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
