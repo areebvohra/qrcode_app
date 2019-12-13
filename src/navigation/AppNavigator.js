@@ -6,6 +6,7 @@ import OTPScreen from '../screens/OTPScreen';
 import QRCodeScreen from '../screens/QRCodeScreen';
 import CreditScreen from '../screens/CreditScreen';
 import ServiceScreen from '../screens/ServiceScreen';
+import NotificationScreen from '../screens/NotificationScreen';
 
 const AppTabs = createBottomTabNavigator({
   ID: { screen: QRCodeScreen },
@@ -27,6 +28,7 @@ const AppTabs = createBottomTabNavigator({
 
 export default createAppContainer(
   createStackNavigator({
+    Noti: { screen: NotificationScreen },
     App: { screen: AppTabs },
     Form: { screen: FormScreen },
     OTP: { screen: OTPScreen },
